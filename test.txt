@@ -1,2 +1,2 @@
 This is my first write from master
-this in a file from sun.
+This is my second from master.
