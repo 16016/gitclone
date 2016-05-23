@@ -1,1 +1,2 @@
-s is my first write from master
+This is my first write from master
+this in a file from sun.
